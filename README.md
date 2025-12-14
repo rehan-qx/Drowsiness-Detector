@@ -19,11 +19,15 @@ Using **Google's MediaPipe** framework, the system detects 468 facial landmarks 
 
 ### This is how your project folder should look:
 
-| Drowsiness-detector | 
-| main.py          | The main python script (Source Code) |
-| alarm.wav        | Audio file for the alarm (Required) |
-| README.md        | This documentation file |
-| requirements.txt | List of dependencies (Optional) |
+ *Drowsiness-detector* 
+
+| main.py          --> The main python script (Source Code) |
+
+| alarm.wav        --> Audio file for the alarm (Required) |
+
+| README.md        --> This documentation file |
+
+| requirements.txt --> List of dependencies (Optional) |
 
 ---
 
@@ -118,3 +122,4 @@ This project is released under the **MIT License**.
   <img src="https://img.shields.io/badge/Built_Different-SIGMA-black?style=for-the-badge&logo=github" alt="Sigma Badge">
   <br><br>
 </div>
+
